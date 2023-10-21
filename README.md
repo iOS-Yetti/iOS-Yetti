@@ -1,10 +1,17 @@
 ## Hi👋, my name is Yechan Kim
 I'm a iOS developer
 
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/iOS-E6E6E6?style=flat&logo=apple&logoColor=ffffff"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=ffffff"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=ffffff"/></a>
+
+
+
+
+
 
 <!--
 **iOS-Yetti/iOS-Yetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
