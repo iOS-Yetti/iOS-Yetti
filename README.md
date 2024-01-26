@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&fontColor=ffffff&animation=fadeIn&height=120&section=header&text=Hi!%20My%20name%20is%20Yechan%20Kim&fontSize=50&desc=I%20am%20an%20iOS%20Developer&descSize=30&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&fontColor=ffffff&animation=fadeIn&height=120&section=header&text=Hi!%20My%20name%20is%20Yechan%20&fontSize=50&desc=I%20am%20an%20iOS%20Developer&descSize=30&descAlignY=80)
 
 ## 💻 My Tech Stack
 
